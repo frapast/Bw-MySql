@@ -1,3 +1,7 @@
+---Ho progettato il DataBase di un finto store per gestire il flusso degli ordini, e quindi, monitorare gli ordini, i prodotti ed effettuare i restock di quest'ultimi ove necessario.--------
+
+
+
 CREATE DATABASE VendiCose;
 
 USE VendiCose;
